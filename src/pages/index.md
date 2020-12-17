@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Here is our Investor Pack
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a Here
-      you 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a Here you
+      will find oa 
     actions:
       - label: Learn More
         url: /features

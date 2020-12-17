@@ -1,7 +1,7 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Starter",
+        "title": "casium133",
         "has_nav": true,
         "nav_links": [
             {
@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/weblogo.png"
     },
     "footer": {
         "has_nav": true,

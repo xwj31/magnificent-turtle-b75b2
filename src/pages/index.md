@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Here is our Investor Pack
-    subtitle: Here you will find a serif video introduction and invs
+    subtitle: Here you will find a serif video introduction and investor documents
     actions:
       - label: Learn More
         url: /features

@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Here is our Investor Pack
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a Here you
-      will find oa 
+    subtitle: Here you will find a serif video introductions
     actions:
       - label: Learn More
         url: /features

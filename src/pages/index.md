@@ -2,10 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Here is our Investor Pack
+    subtitle: Here you will find a serif video introduction and investor documents
     actions:
       - label: Learn More
         url: /features
@@ -18,8 +16,8 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_color: gray
+      background_image: images/diagonal-linesp.svg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
@@ -67,12 +65,10 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Setup a meeting with us
+    subtitle: 'Want to find out more about how your investment will be put to work. '
     actions:
-      - label: Learn More
+      - label: Book Meeting
         url: /features
         style: primary
     has_background: true

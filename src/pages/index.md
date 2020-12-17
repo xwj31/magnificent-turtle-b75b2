@@ -66,9 +66,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Setup a meeting with us
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Want to find out more about investing in
     actions:
       - label: Book Meeting
         url: /features

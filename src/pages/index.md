@@ -66,7 +66,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Setup a meeting with us
-    subtitle: Want to find out more about investing in our company
+    subtitle: Want to find out more about investing with
     actions:
       - label: Book Meeting
         url: /features

@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Here is our Invstro Pack
+    title: Here is our Investor Pack
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.

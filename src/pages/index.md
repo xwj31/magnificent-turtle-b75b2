@@ -70,7 +70,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: Learn More
+      - label: Book Meeting
         url: /features
         style: primary
     has_background: true

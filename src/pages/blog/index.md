@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News
 sections:
   - type: hero_section
     title: Company News

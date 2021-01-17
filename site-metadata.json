@@ -10,7 +10,7 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "News",
                 "url": "/blog",
                 "style": "link"
             },
@@ -20,7 +20,7 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Roadmap",
                 "url": "/style-guide",
                 "style": "link"
             },
